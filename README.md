@@ -45,4 +45,5 @@ select month ([OrderDate]) as [Sales Month],
 ### DATA SUMMARY
  I used Microsoft Excel to give summary of my data
  1. Total Sales by Product
+ https://github.com/Hephzibah2/LITA-PROJECT-/blob/main/223f4819-c6e9-42fd-b035-e3e2b3b2cd31%20Copy.jpeg
    
