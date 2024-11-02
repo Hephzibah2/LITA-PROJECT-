@@ -43,7 +43,7 @@ I performed the following actions
 
 
 2. Total Sales by Region
-  
+  https://github.com/Hephzibah2/LITA-PROJECT-/blob/12de8ab84895e3f225c1829e4977b6f1dda96d4b/regio%20by%20sales.jpg
 
 3. Total Sales by Month
    
