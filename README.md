@@ -5,7 +5,7 @@ To show all that I have learned from Ladies in Tech Africa (LITA), The incubator
 LITA CAPSTONE DATASET
 
 ### PROJECT OVERVIEW
-This to show how well I can practice what I have been taught
+This Data Analysis is to show key insights in the Sales Performance of a company
 
 ### DATA SOURCES
 The Incubator hub
