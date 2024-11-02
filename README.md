@@ -43,7 +43,7 @@ I performed the following actions
 
 
 2. Total Sales by Region
-   
+  
 
 3. Total Sales by Month
    
