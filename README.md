@@ -42,4 +42,7 @@ select month ([OrderDate]) as [Sales Month],
 	   order by 1
 ''' 
 
+### DATA SUMMARY
+ I used Microsoft Excel to give summary of my data
+ 1. Total Sales by Product
    
