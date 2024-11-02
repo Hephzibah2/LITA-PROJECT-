@@ -18,9 +18,14 @@ The Primary source of data used is LITA Capstone Dataset.xlsx
 - Power BI [Download here](www.microsoft.com)
 1. For Data visualisation
 - Github: Portfolio building
-  
-I performed the following actions
 
-Data inspection
-Handling missing variables
-Data cleaning and formatting
+### DATA CLEANING AND PREPARATION
+I performed the following actions
+1. Data inspection
+2. Handling missing variables
+3. Data cleaning and formatting
+
+### EXPLORATORY DATA ANALYSIS
+1. What are the total sales for each product?
+2. What is sum of sales for each region?
+3. What are the sales of the company per month?
