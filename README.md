@@ -5,25 +5,22 @@ To show all that I have learned from Ladies in Tech Africa (LITA), The incubator
 LITA CAPSTONE DATASET
 
 ### PROJECT OVERVIEW
+This to show how well I can practice what I have been taught
 
-This is to show how well I can practice what I have been taught
+### DATA SOURCES
+The Incubator hub
 
-Data sources
+### TOOLS USED
+- Microsoft Excel [Download here](www.micosoft.com)
+1. For Data cleaning
+2. For Analysis
+- SQL- Structured Query Language: For querying data
+- Power BI [Download here](www.microsoft.com)
+1. For Data visualisation
+- Github: Portfolio building
+  
+I performed the following actions
 
-kaggle
-
-Tools used
-
-Microsoft Excel Download here
-For Data cleaning
-For Analysis
-For Data visualization
-SQL- Structured Query Language: For querying data
-Github: Portfolio building
-Data cleaning
-
-We performed the following actions
-
-Data loading and inspection
+Data inspection
 Handling missing variables
 Data cleaning and formatting
