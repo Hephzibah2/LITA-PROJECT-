@@ -49,4 +49,4 @@ select month ([OrderDate]) as [Sales Month],
 
 2. Total Sales by Region
  
-   
+    
