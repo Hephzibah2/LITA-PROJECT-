@@ -5,6 +5,7 @@ To show all that I have learned from Ladies in Tech Africa (LITA), The incubator
 LITA CAPSTONE DATASET
 
 ### PROJECT OVERVIEW
+--- 
 This Data Analysis is to show key insights in the Sales Performance of a company
 
 ### DATA SOURCES
@@ -33,12 +34,13 @@ I performed the following actions
 ### DATA ANALYSIS
  This is where I talk about the functions and codes I used
  - E.g
-   ''' SQL
-   ----Monthly sales for current year----
+''' SQL
 select month ([OrderDate]) as [Sales Month],
        SUM([sales]) as [Total Sales]
 	   from [dbo].[Sales data]
 	   where year([OrderDate])='2024'
 	   group by month([OrderDate])
 	   order by 1
-'''
+   '''
+
+   
