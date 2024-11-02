@@ -29,3 +29,16 @@ I performed the following actions
 1. What are the total sales for each product?
 2. What is sum of sales for each region?
 3. What are the sales of the company per month?
+
+### DATA ANALYSIS
+ This is where I talk about the functions and codes I used
+ - E.g
+   ''' SQL
+   ----Monthly sales for current year----
+select month ([OrderDate]) as [Sales Month],
+       SUM([sales]) as [Total Sales]
+	   from [dbo].[Sales data]
+	   where year([OrderDate])='2024'
+	   group by month([OrderDate])
+	   order by 1
+'''
