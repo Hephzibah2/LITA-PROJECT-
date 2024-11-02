@@ -48,5 +48,6 @@ select month ([OrderDate]) as [Sales Month],
  https://github.com/Hephzibah2/LITA-PROJECT-/blob/main/223f4819-c6e9-42fd-b035-e3e2b3b2cd31%20Copy.jpeg
 
 2. Total Sales by Region
+   https://github.com/Hephzibah2/LITA-PROJECT-/blob/main/223f4819-c6e9-42fd-b035-e3e2b3b2cd31%20Copy.jpeg
  
     
