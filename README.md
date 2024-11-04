@@ -46,6 +46,9 @@ I performed the following actions
   https://github.com/Hephzibah2/LITA-PROJECT-/blob/12de8ab84895e3f225c1829e4977b6f1dda96d4b/regio%20by%20sales.jpg
 
 3.  Total Sales by Month
+  https://github.com/Hephzibah2/LITA-PROJECT-/blob/main/IMG_1538%20Copy.jpeg
+
+Here we see the month with the highest sales and lowest sales. 
    
    
 5. Top Selling Product
