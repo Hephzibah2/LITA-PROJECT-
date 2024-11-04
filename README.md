@@ -55,3 +55,7 @@ Here we see the month with the highest sales and lowest sales.
    https://github.com/Hephzibah2/LITA-PROJECT-/blob/main/IMG_1540%20Copy.jpeg
    
 5.  Average Sales per Product
+https://github.com/Hephzibah2/LITA-PROJECT-/blob/main/IMG_1545%20Copy.jpeg
+
+### DATA QUERYING
+
