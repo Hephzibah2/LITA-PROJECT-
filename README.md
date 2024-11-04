@@ -70,3 +70,6 @@ In this diagram we can see the visual representation of the sum of sales by regi
 https://github.com/Hephzibah2/LITA-PROJECT-/blob/main/IMG_1424%20Copy%20Copy.jpeg
 
 Sum of sales by product
+https://github.com/Hephzibah2/LITA-PROJECT-/blob/main/IMG_1424%20Copy.jpeg
+
+Average Sales Per Product
