@@ -58,7 +58,8 @@ Here we see the month with the highest sales and lowest sales.
 https://github.com/Hephzibah2/LITA-PROJECT-/blob/main/IMG_1545%20Copy.jpeg
 
 ### DATA QUERYING
-Here I used SQL Server to query my data.
+Here I used SQL Server to query my data to  retrieve the total sales for each product category, find the number of sales transactions in each region,find the highest-selling product by total sales value and many more
+
 https://github.com/Hephzibah2/LITA-PROJECT-/blob/main/607b79d5-5a5b-4457-b847-c5fa5d2d06e2%20Copy.jpeg
 
 ### DATA VISUALIZATION
