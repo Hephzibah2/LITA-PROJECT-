@@ -49,7 +49,8 @@ I performed the following actions
   https://github.com/Hephzibah2/LITA-PROJECT-/blob/main/IMG_1538%20Copy.jpeg
 
 Here we see the month with the highest sales and lowest sales. 
+   https://github.com/Hephzibah2/LITA-PROJECT-/blob/main/IMG_1537%20Copy.jpeg
    
+4. Top Selling Product
    
-5. Top Selling Product
 6. Average Sales per Product
