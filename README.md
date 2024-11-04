@@ -67,3 +67,6 @@ I was able to show my data in a visual format making it easy to understand to th
 https://github.com/Hephzibah2/LITA-PROJECT-/blob/main/IMG_1424%20Copy.jpeg
 
 In this diagram we can see the visual representation of the sum of sales by region data
+https://github.com/Hephzibah2/LITA-PROJECT-/blob/main/IMG_1424%20Copy%20Copy.jpeg
+
+Sum of sales by product
