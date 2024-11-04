@@ -26,19 +26,20 @@ I performed the following actions
 3. Data cleaning and formatting
 
 ### EXPLORATORY DATA ANALYSIS
+This helps to give answers to unanswered questions of the organisations.
 1. What are the total sales for each product?
 2. What is sum of sales for each region?
 3. What are the sales of the company per month?
 
 ### DATA ANALYSIS
- This is where I talk about the functions and codes I used
+ This is where I talk about the functions and codes I used when using the tools for data analysis
  - E.g
 ''' SQL
     select * from [dbo].[Sales data]
 '''
 
 ### DATA SUMMARY
- I used Microsoft Excel to give summary of my data
+ I used Microsoft Excel to give summary of my data. This will help the organisation in making effective decisions and prevent wasting time with unnecessary informations.
  1. Total Sales by Product
   https://github.com/Hephzibah2/LITA-PROJECT-/blob/main/IMG_1535%20Copy.jpeg
 
