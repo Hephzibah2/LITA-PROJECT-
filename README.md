@@ -40,13 +40,12 @@ I performed the following actions
 ### DATA SUMMARY
  I used Microsoft Excel to give summary of my data
  1. Total Sales by Product
-   
+  https://github.com/Hephzibah2/LITA-PROJECT-/blob/main/IMG_1535%20Copy.jpeg
 
-
-3. Total Sales by Region
+2. Total Sales by Region
   https://github.com/Hephzibah2/LITA-PROJECT-/blob/12de8ab84895e3f225c1829e4977b6f1dda96d4b/regio%20by%20sales.jpg
 
-4. Total Sales by Month
+3.  Total Sales by Month
    
    
 5. Top Selling Product
