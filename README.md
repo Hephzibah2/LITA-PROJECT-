@@ -73,3 +73,7 @@ Sum of sales by product
 https://github.com/Hephzibah2/LITA-PROJECT-/blob/main/IMG_1424%20Copy.jpeg
 
 Average Sales Per Product
+https://github.com/Hephzibah2/LITA-PROJECT-/blob/main/IMG_1422%20Copy.jpeg
+
+### CONCLUSIONS AND RECOMMENDATIONS
+ We have been able to see the strength and weaknesses of this retail store through this analysis. We have seen key insights in the sales of the store and see that there is more room for improvement.
