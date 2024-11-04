@@ -58,4 +58,9 @@ Here we see the month with the highest sales and lowest sales.
 https://github.com/Hephzibah2/LITA-PROJECT-/blob/main/IMG_1545%20Copy.jpeg
 
 ### DATA QUERYING
+Here I used SQL Server to query my data.
+https://github.com/Hephzibah2/LITA-PROJECT-/blob/main/607b79d5-5a5b-4457-b847-c5fa5d2d06e2%20Copy.jpeg
+
+### DATA VISUALIZATION
+I was able to show my data in a visual format making it easy to understand to the owner of the retail store.
 
