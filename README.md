@@ -64,3 +64,6 @@ https://github.com/Hephzibah2/LITA-PROJECT-/blob/main/607b79d5-5a5b-4457-b847-c5
 ### DATA VISUALIZATION
 I was able to show my data in a visual format making it easy to understand to the owner of the retail store.
 
+https://github.com/Hephzibah2/LITA-PROJECT-/blob/main/IMG_1424%20Copy.jpeg
+
+In this diagram we can see the visual representation of the sum of sales by region data
